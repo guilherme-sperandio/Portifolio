@@ -1,0 +1,32 @@
+
+:root{
+  --color-darkblue: #1e2233;
+  --color-ligthblue: #24273d;
+  --color-title: #fd5d55;
+  --color-button: #ff5c53;
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  line-height: 100%;
+  font-family: 'Roboto';
+ 
+}
+
+
+  body::-webkit-scrollbar-track {
+    background-color: #F4F4F4;
+}
+body::-webkit-scrollbar {
+    width: 4px;
+    background: #fd5d55;
+}
+body::-webkit-scrollbar-thumb {
+    background: #fd5d55;
+}
+
+  
