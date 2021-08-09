@@ -47,29 +47,30 @@ export default class MyDocument extends Document {
     return (
       <Html lang="pt">
         <Head>
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <meta name="description"  property="og:title" content="My portfolio" />
         <link
             rel="apple-touch-icon"
             sizes="180x180"
-            href="/public/apple-touch-icon.png"
+            href="/apple-touch-icon.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="32x32"
-            href="/public/favicon-32x32.png"
+            href="/favicon-32x32.png"
           />
           <link
             rel="icon"
             type="image/png"
             sizes="16x16"
-            href="/public/favicon-16x16.png"
+            href="/favicon-16x16.png"
           />
-        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
-        <link rel="preconnect" href="https://fonts.googleapis.com"/>
-        <link rel="preconnect" href="https://fonts.gstatic.com" />
+       
         <meta charSet="utf-8" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" />
+       
         
         </Head>
         <body>
