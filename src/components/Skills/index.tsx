@@ -73,7 +73,7 @@ export default function Skills(){
         <CardSkill className="keen-slider__slide number-slide1">
           <FaReact />
           <span>React.js</span>
-          <p>About 2 years ago I started studying React.js, where I saw courses at Alura and also at RockeatSeat.
+          <p>About 2 years ago I started studying React.js, where I saw courses at Alura and also at Rocketseat.
 In addition to private projects, I work daily with this stack, in my current service. </p>
         </CardSkill>
         <CardSkill className="keen-slider__slide number-slide2">

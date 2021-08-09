@@ -26,7 +26,7 @@ export const Container = styled.section`
       background-color: var(--color-title);
     }
     p{
-      line-height: 21px;
+      line-height: 24px;
       color: #fff;
       margin-bottom: 2rem;
     }

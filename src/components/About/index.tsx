@@ -3,8 +3,8 @@ import { Container, DownloadButton } from "./styles";
 import Image from 'next/image';
 import ProfileImg from '../../../public/profile2.jpg'
 import {FaGithub,FaLinkedinIn} from 'react-icons/fa';
-import { useRef } from "react";
-export default function About(){
+
+export default function About (){
   return(
     <Container >
       <div className="profileImg">

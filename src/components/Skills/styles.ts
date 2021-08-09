@@ -55,5 +55,6 @@ export const CardSkill = styled.div`
     margin-top: 1.5rem;
     font-size: 14px;
     color: #fff;
+    line-height: 20px;
   }
 `;
