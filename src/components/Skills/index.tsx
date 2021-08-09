@@ -65,7 +65,7 @@ export default function Skills(){
     }
   }, [pause, slider])
   return(
-    <Container>
+    <Container id="skills">
       <h2>Skills</h2>
       <div className="separation"></div>
       <div className="skills">

@@ -6,7 +6,7 @@ import {FaGithub,FaLinkedinIn} from 'react-icons/fa';
 
 export default function About (){
   return(
-    <Container >
+    <Container  id='about'>
       <div className="profileImg">
         <Image src={ProfileImg} alt="Imagem de perfil do desenvolvedor" quality={100} width={300} height={400} />
       </div>
